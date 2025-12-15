@@ -1,0 +1,17 @@
+# Vivado generated files
+*.jou
+*.log
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.srcs/sources_1/ip/
+*.ip_user_files/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Backup files
+*~
